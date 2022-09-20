@@ -6,11 +6,9 @@ They indicate my growth as whatever code I write, I like to put it here.
 It also helps me access things I wrote, but soon fade in memory.
 
 # GitHub Stats
-<div style="text-align: center;">
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePiyushAggarwal&hide=stars&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-  </div>
+
 
 <!--
 **ThePiyushAggarwal/ThePiyushAggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### How to reach me
+
+📫 Check out the [Twitter](https://twitter.com/piyushnode) link on the left side.
