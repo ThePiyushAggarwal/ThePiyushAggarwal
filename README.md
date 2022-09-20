@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ### How to reach me
 
-📫 Check out the [Twitter](https://twitter.com/piyushnode) link on the left side.
+📫 Check out my [Twitter](https://twitter.com/piyushnode) and [LinkedIn](https://www.linkedin.com/in/developerpiy) profiles.
