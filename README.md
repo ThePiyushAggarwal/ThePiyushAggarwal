@@ -6,7 +6,7 @@ They indicate my growth as whatever code I write, I like to put it here.
 It also helps me access things I wrote, but soon fade in memory.
 
 # GitHub Stats
-<div style="align: text-center;">
+<div style="text-align: center;">
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePiyushAggarwal&hide=stars&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
