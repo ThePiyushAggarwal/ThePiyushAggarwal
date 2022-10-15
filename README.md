@@ -7,7 +7,7 @@ I am interested in MERN stack Development. Currently interning at Market Inc and
 
 There are a lot of personal projects here - small as well as bigger.
 They indicate my growth as whatever code I write, I like to put it here.
-It also helps me access things I wrote, but soon fade in memory.
+It also helps me access things I wrote, that soon fade in memory.
 
 # GitHub Stats
 
