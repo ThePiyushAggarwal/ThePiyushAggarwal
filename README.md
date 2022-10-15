@@ -11,9 +11,8 @@ It also helps me access things I wrote, that soon fade in memory.
 
 # GitHub Stats
 
-<div style="display: flex; justify-content: center;">
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePiyushAggarwal&hide=stars&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+
 
 
 <!--
