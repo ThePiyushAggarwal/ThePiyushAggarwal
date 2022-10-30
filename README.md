@@ -3,7 +3,7 @@
 
 Thanks for stopping by.
 
-I am interested in MERN stack Development. Currently interning at Market Inc and gaining experience.
+I am interested in MERN stack Development. Currently working at Anubudh as React JS Developer and gaining experience.
 
 There are a lot of personal projects here - small as well as bigger.
 They indicate my growth as whatever code I write, I like to put it here.
