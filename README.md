@@ -12,6 +12,7 @@ It also helps me access things I wrote, that soon fade in memory.
 Deployments will not be working for now. Because heroku free tier got expired and I haven't updated many of them.
 
 # GitHub Stats
+<p align="center">
 <div style="text-align: center;">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePiyushAggarwal&hide=stars&show_icons=true&theme=radical&count_private=true" />
   </div>
