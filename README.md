@@ -13,9 +13,9 @@ Deployments will not be working for now. Because heroku free tier got expired an
 
 # GitHub Stats
 <p align="center">
-<div style="text-align: center;">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThePiyushAggarwal&hide=stars&show_icons=true&theme=radical&count_private=true" />
-  </div>
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePiyushAggarwal&hide=stars&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
