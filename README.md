@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-Thanks for stopping by.
+Thanks for stopping by!
 
-I am a Frontend Developer. Most of work is in React.js
+I am a Frontend Developer. Most of my work is in React.js
 
 There are a lot of personal projects here - small as well as bigger.
 They indicate my growth as whatever code I write, I like to put it here.
