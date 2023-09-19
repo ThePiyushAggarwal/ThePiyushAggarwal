@@ -3,8 +3,6 @@
 
 Thanks for stopping by!
 
-I am a Frontend Developer. Most of my work is in React.js
-
 There are a lot of personal projects here - small as well as bigger.
 They indicate my growth as whatever code I write, I like to put it here.
 It also helps me access things I wrote, that soon fade in memory.
