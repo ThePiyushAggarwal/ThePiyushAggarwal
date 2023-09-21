@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-
 Thanks for stopping by!
+
+I have am a full stack developer (MERN) - frontend heavy.
+I written a lot of code in private repositories, but now contributing to open source to learn and put my experience out in open.
 
 There are a lot of personal projects here - small as well as bigger.
 They indicate my growth as whatever code I write, I like to put it here.
@@ -9,7 +11,7 @@ It also helps me access things I wrote, that soon fade in memory.
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Would you like to connect with me?</h3>
 <p align="left">
 <a href="https://twitter.com/piyushnode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushnode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/developerpiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developerpiy" height="30" width="40" /></a>
