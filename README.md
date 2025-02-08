@@ -31,6 +31,10 @@ It also helps me access things I wrote, that soon fade in memory.
 </p>
 
 
+### Open Source Contributions
+- [Open Sauced](https://github.com/open-sauced/app/pulls?q=is%3Apr+author%3AThePiyushAggarwal+is%3Aclosed)
+
+
 ### GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
